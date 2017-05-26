@@ -23,3 +23,9 @@ CMakeCache.txt
 *.log
 *.tlog
 build
+*.user
+*.db
+*.jpg
+*.tiff
+.vs
+x64

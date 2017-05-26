@@ -8,5 +8,5 @@ using namespace std;
 void ImageProcessor::process(const Mat & rawImg) {
 	resultImage.release();
 	resultImage = rawImg.clone();
-	demosaicing(rawImg, resultImage, CV_BayerGR2RGB);
+	demosaicing(rawImg, resultImage, CV_BayerGR2BGR);
 }

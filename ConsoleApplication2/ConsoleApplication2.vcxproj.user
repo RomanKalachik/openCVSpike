@@ -4,7 +4,7 @@
     <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LocalDebuggerCommandArguments>"C:\Users\kalachik.CORP\Documents\Visual Studio 2017\Projects\ConsoleApplication2\x64\Debug\cam0.tiff" </LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"C:\Users\kalachik.CORP\AppData\Roaming\Skype\My Skype Received Files\cam0.tiff" </LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>
